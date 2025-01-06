@@ -1,6 +1,0 @@
-web:
-  # ... other web service configuration
-  redirects:
-    - source: /
-      destination: /index.html
-      type: permanent
